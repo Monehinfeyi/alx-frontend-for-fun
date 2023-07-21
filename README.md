@@ -1,0 +1,1 @@
+### This repo contians diectories that hold files and folders created for the purpose of frontend_project with Holberton School of coding and and ALX.
