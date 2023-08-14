@@ -29,11 +29,7 @@ General
 - All your files should start by a comment describing the task
 - A ``README.md`` file, at the root of the folder of the project, is mandatory
 - The length of your files will be tested using wc
-
 ![SASS](https://github.com/Monehinfeyi/alx-frontend-for-fun/assets/89196639/dad2c6d2-7873-4765-9618-54e2a200a759)
-
-
-  
 Tasks
 
     Always debugging!
