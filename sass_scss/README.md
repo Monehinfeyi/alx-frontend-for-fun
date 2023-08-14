@@ -32,22 +32,23 @@ General
 ![SASS](https://github.com/Monehinfeyi/alx-frontend-for-fun/assets/89196639/dad2c6d2-7873-4765-9618-54e2a200a759)
 
 Tasks
-    Always debugging!
-    Colors
-    Nested tag
-    Nested class
-    Nested child
-    Nested hover
-    Nested and nested again
-    Margin mixin
-    Extended
-    Import colors
-    For each
-    Loop Headers
-    Columns and operators
-    Media query #0
-    Media query #1
-    Sort!
+
+Always debugging!
+Colors
+Nested tag
+Nested class
+Nested child
+Nested hover
+Nested and nested again
+Margin mixin
+Extended
+Import colors
+For each
+Loop Headers
+Columns and operators
+Media query #0
+Media query #1
+Sort!
 
 #### The main [TASK](https://intranet.alxswe.com/projects/1212)
 
